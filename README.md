@@ -1,2 +1,2 @@
-# MaviYatcilik
+# Mavi Yat Projesi
 
